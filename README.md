@@ -27,8 +27,16 @@
 
 ###
 
+<div align="center">
+  <img height="270" src="https://media4.giphy.com/media/v1.Y2lkPTA1NzQyMTNjMGtwYmNyMnNzdTdhNGZzZndsOWY4OTB0ZHRlcHRzeGhtdm9xczYxbSZlcD12MV9naWZzX2dpZklkJmN0PWc/CajX4VnCNDkYxny22E/200.gif"  />
+</div>
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=JAVIK999&fontSize=50&fontAlign=50&fontAlignY=45&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
+
+###
 
 ###
